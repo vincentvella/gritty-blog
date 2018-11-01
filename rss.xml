@@ -1,8 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Gritty's Blog]]></title><description><![CDATA[A starter blog demonstrating what Gatsby can do.]]></description><link>https://vincentvella.github.io</link><generator>RSS for Node</generator><lastBuildDate>Thu, 01 Nov 2018 15:51:18 GMT</lastBuildDate><item><title><![CDATA[LibertyJS is so fun!]]></title><description><![CDATA[Hi, Guru]]></description><link>https://vincentvella.github.io/new-blog-post/</link><guid isPermaLink="false">https://vincentvella.github.io/new-blog-post/</guid><pubDate>Thu, 01 Nov 2018 22:40:32 GMT</pubDate><content:encoded>&lt;p&gt;Hi, Guru&lt;/p&gt;</content:encoded></item><item><title><![CDATA[New Kids on the Block]]></title><description><![CDATA[Can Phang come over for a sleepover?]]></description><link>https://vincentvella.github.io/moar-friends/</link><guid isPermaLink="false">https://vincentvella.github.io/moar-friends/</guid><pubDate>Mon, 08 Oct 2018 22:40:32 GMT</pubDate><content:encoded>&lt;p&gt;Can Phang come over for a sleepover?&lt;/p&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Gritty's Blog]]></title><description><![CDATA[A starter blog demonstrating what Gatsby can do.]]></description><link>https://vincentvella.github.io</link><generator>RSS for Node</generator><lastBuildDate>Thu, 01 Nov 2018 15:53:14 GMT</lastBuildDate><item><title><![CDATA[LibertyJS is so fun!]]></title><description><![CDATA[Hi, Guru]]></description><link>https://vincentvella.github.io/new-blog-post/</link><guid isPermaLink="false">https://vincentvella.github.io/new-blog-post/</guid><pubDate>Thu, 01 Nov 2018 22:40:32 GMT</pubDate><content:encoded>&lt;p&gt;Hi, Guru&lt;/p&gt;</content:encoded></item><item><title><![CDATA[New Kids on the Block]]></title><description><![CDATA[Can Phang come over for a sleepover?]]></description><link>https://vincentvella.github.io/moar-friends/</link><guid isPermaLink="false">https://vincentvella.github.io/moar-friends/</guid><pubDate>Mon, 08 Oct 2018 22:40:32 GMT</pubDate><content:encoded>&lt;p&gt;Can Phang come over for a sleepover?&lt;/p&gt;
 &lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/grittys-blog/static/a13666f7dc1b6e2ce29a9c836c52dffa/c1266/me-and-phang.jpg&quot;
+    href=&quot;/gritty-blog/static/a13666f7dc1b6e2ce29a9c836c52dffa/c1266/me-and-phang.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -21,23 +21,23 @@
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
         alt=&quot;Me and Phang&quot;
         title=&quot;&quot;
-        src=&quot;/grittys-blog/static/a13666f7dc1b6e2ce29a9c836c52dffa/f8fb9/me-and-phang.jpg&quot;
-        srcset=&quot;/grittys-blog/static/a13666f7dc1b6e2ce29a9c836c52dffa/e8976/me-and-phang.jpg 148w,
-/grittys-blog/static/a13666f7dc1b6e2ce29a9c836c52dffa/63df2/me-and-phang.jpg 295w,
-/grittys-blog/static/a13666f7dc1b6e2ce29a9c836c52dffa/f8fb9/me-and-phang.jpg 590w,
-/grittys-blog/static/a13666f7dc1b6e2ce29a9c836c52dffa/85e3d/me-and-phang.jpg 885w,
-/grittys-blog/static/a13666f7dc1b6e2ce29a9c836c52dffa/d1924/me-and-phang.jpg 1180w,
-/grittys-blog/static/a13666f7dc1b6e2ce29a9c836c52dffa/c1266/me-and-phang.jpg 1200w&quot;
+        src=&quot;/gritty-blog/static/a13666f7dc1b6e2ce29a9c836c52dffa/f8fb9/me-and-phang.jpg&quot;
+        srcset=&quot;/gritty-blog/static/a13666f7dc1b6e2ce29a9c836c52dffa/e8976/me-and-phang.jpg 148w,
+/gritty-blog/static/a13666f7dc1b6e2ce29a9c836c52dffa/63df2/me-and-phang.jpg 295w,
+/gritty-blog/static/a13666f7dc1b6e2ce29a9c836c52dffa/f8fb9/me-and-phang.jpg 590w,
+/gritty-blog/static/a13666f7dc1b6e2ce29a9c836c52dffa/85e3d/me-and-phang.jpg 885w,
+/gritty-blog/static/a13666f7dc1b6e2ce29a9c836c52dffa/d1924/me-and-phang.jpg 1180w,
+/gritty-blog/static/a13666f7dc1b6e2ce29a9c836c52dffa/c1266/me-and-phang.jpg 1200w&quot;
         sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
       /&gt;
     &lt;/span&gt;
   &lt;/span&gt;
   
   &lt;/a&gt;
-    &lt;/p&gt;</content:encoded></item><item><title><![CDATA[Did we just become best friends?]]></title><link>https://vincentvella.github.io/making-friends/</link><guid isPermaLink="false">https://vincentvella.github.io/making-friends/</guid><pubDate>Sat, 29 Sep 2018 23:46:37 GMT</pubDate><content:encoded>&lt;p&gt;&lt;img src=&quot;/grittys-blog/phanatic-and-me-2549c70f6badf476e6a22ea0bab71a5f.gif&quot; alt=&quot;It me and Phanatic&quot;&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[It me!]]></title><link>https://vincentvella.github.io/it-me/</link><guid isPermaLink="false">https://vincentvella.github.io/it-me/</guid><pubDate>Mon, 24 Sep 2018 23:46:37 GMT</pubDate><content:encoded>&lt;p&gt;
+    &lt;/p&gt;</content:encoded></item><item><title><![CDATA[Did we just become best friends?]]></title><link>https://vincentvella.github.io/making-friends/</link><guid isPermaLink="false">https://vincentvella.github.io/making-friends/</guid><pubDate>Sat, 29 Sep 2018 23:46:37 GMT</pubDate><content:encoded>&lt;p&gt;&lt;img src=&quot;/gritty-blog/phanatic-and-me-2549c70f6badf476e6a22ea0bab71a5f.gif&quot; alt=&quot;It me and Phanatic&quot;&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[It me!]]></title><link>https://vincentvella.github.io/it-me/</link><guid isPermaLink="false">https://vincentvella.github.io/it-me/</guid><pubDate>Mon, 24 Sep 2018 23:46:37 GMT</pubDate><content:encoded>&lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/grittys-blog/static/d27cb02153031a11a1a6834887ce5bff/96788/it-me.jpg&quot;
+    href=&quot;/gritty-blog/static/d27cb02153031a11a1a6834887ce5bff/96788/it-me.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -56,12 +56,12 @@
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
         alt=&quot;It me&quot;
         title=&quot;&quot;
-        src=&quot;/grittys-blog/static/d27cb02153031a11a1a6834887ce5bff/f8fb9/it-me.jpg&quot;
-        srcset=&quot;/grittys-blog/static/d27cb02153031a11a1a6834887ce5bff/e8976/it-me.jpg 148w,
-/grittys-blog/static/d27cb02153031a11a1a6834887ce5bff/63df2/it-me.jpg 295w,
-/grittys-blog/static/d27cb02153031a11a1a6834887ce5bff/f8fb9/it-me.jpg 590w,
-/grittys-blog/static/d27cb02153031a11a1a6834887ce5bff/85e3d/it-me.jpg 885w,
-/grittys-blog/static/d27cb02153031a11a1a6834887ce5bff/96788/it-me.jpg 1080w&quot;
+        src=&quot;/gritty-blog/static/d27cb02153031a11a1a6834887ce5bff/f8fb9/it-me.jpg&quot;
+        srcset=&quot;/gritty-blog/static/d27cb02153031a11a1a6834887ce5bff/e8976/it-me.jpg 148w,
+/gritty-blog/static/d27cb02153031a11a1a6834887ce5bff/63df2/it-me.jpg 295w,
+/gritty-blog/static/d27cb02153031a11a1a6834887ce5bff/f8fb9/it-me.jpg 590w,
+/gritty-blog/static/d27cb02153031a11a1a6834887ce5bff/85e3d/it-me.jpg 885w,
+/gritty-blog/static/d27cb02153031a11a1a6834887ce5bff/96788/it-me.jpg 1080w&quot;
         sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
       /&gt;
     &lt;/span&gt;
