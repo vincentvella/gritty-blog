@@ -3,8 +3,8 @@ import { Link, graphql } from "gatsby";
 import get from "lodash/get";
 
 import Layout from "../components/layout";
-// import HeroBlock from "../components/HeroBlock";
-// import PageBody from "../components/PageBody";
+import HeroBlock from "../components/HeroBlock";
+import PageBody from "../components/PageBody";
 
 import { rhythm } from "../utils/typography";
 
@@ -14,8 +14,8 @@ class BlogIndex extends Component {
 
     return (
       <Layout location={this.props.location}>
-        {/* <HeroBlock title="My Blog!" /> */}
-        {/* <PageBody> */}
+        <HeroBlock title="My Blog!" />
+        <PageBody>
         {posts.map(({ node }) => {
           const title = get(node, "frontmatter.title") || node.fields.slug;
           return (
@@ -35,7 +35,7 @@ class BlogIndex extends Component {
           );
         })}
 
-        {/* </PageBody> */}
+        </PageBody>
       </Layout>
     );
   }

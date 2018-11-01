@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
-    title: 'Gatsby Starter Blog',
-    author: 'Kyle Mathews',
+    title: 'Gritty\'s Blog',
+    author: 'Vince Vella',
     description: 'A starter blog demonstrating what Gatsby can do.',
     siteUrl: 'https://ivanaveliskova.github.io',
   },
@@ -54,7 +54,7 @@ module.exports = {
         background_color: `#ffffff`,
         theme_color: `#663399`,
         display: `minimal-ui`,
-        icon: `src/assets/gatsby-icon.png`,
+        icon: `src/assets/flyers-logo.png`,
       },
     },
     `gatsby-plugin-offline`,

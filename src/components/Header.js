@@ -10,7 +10,7 @@ class Header extends Component {
 
   handleClick = () => {
     this.setState(state => {
-      const menuOpen = state.menuOpen === false ? true : false;
+      const menuOpen = state.menuOpen === false;
 
       return { menuOpen };
     });

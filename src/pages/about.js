@@ -1,8 +1,8 @@
 import React, { Component } from "react";
 
 import Layout from "../components/layout";
-// import HeroBlock from "../components/HeroBlock";
-// import PageBody from "../components/PageBody";
+import HeroBlock from "../components/HeroBlock";
+import PageBody from "../components/PageBody";
 
 import "./css/AboutPage.css";
 
@@ -12,8 +12,8 @@ class AboutPage extends Component {
   render() {
     return (
       <Layout location={this.props.location}>
-        {/* <HeroBlock /> */}
-        {/* <PageBody> */}
+        <HeroBlock />
+        <PageBody>
         <div>
           <img className="AboutPage__avatar" src={avatar} />
           <h1 className="AboutPage__title">About Gritty</h1>
@@ -45,7 +45,7 @@ class AboutPage extends Component {
             That being said, there's no denying that he's one of our own.
           </blockquote>
         </div>
-        {/* </PageBody> */}
+        </PageBody>
       </Layout>
     );
   }
