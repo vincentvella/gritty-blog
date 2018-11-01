@@ -3,9 +3,9 @@ module.exports = {
     title: 'Gritty\'s Blog',
     author: 'Vince Vella',
     description: 'A starter blog demonstrating what Gatsby can do.',
-    siteUrl: 'https://ivanaveliskova.github.io',
+    siteUrl: 'https://vincentvella.github.io',
   },
-  pathPrefix: '/grittys-blog',
+  pathPrefix: '/gritty-blog',
   plugins: [
     {
       resolve: `gatsby-source-filesystem`,
