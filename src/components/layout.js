@@ -7,7 +7,11 @@ import "./css/Layout.css";
 
 
 class Template extends Component {
-  getPageTitle = path => {
+  constructor(props) {
+    super(props);
+  }
+
+  static getPageTitle(path) {
     switch (path) {
       case "/about":
         return "About";
@@ -20,13 +24,14 @@ class Template extends Component {
       default:
         break;
     }
-  };
+  }
+
   render() {
     const { location, children } = this.props;
     const rootPath = `${__PATH_PREFIX__}/`;
     const className = location.pathname === rootPath ? "is-homepage" : "";
     const layoutCN = "Layout " + className;
-    const pageTitle = this.getPageTitle(location.pathname);
+    const pageTitle = Template.getPageTitle(location.pathname);
 
     return (
       <div className={layoutCN}>
@@ -54,9 +59,9 @@ class Template extends Component {
             />
           )}
         />
-        <Header className={className} />
+        <Header className={className}/>
         {children}
-        {location.pathname !== rootPath && <Footer />}
+        {location.pathname !== rootPath && <Footer/>}
       </div>
     );
   }

@@ -4,11 +4,16 @@ import { Link } from "gatsby";
 import "./css/Header.css";
 
 class Header extends Component {
-  state = {
-    menuOpen: false,
-  };
+  constructor(props) {
+    super(props);
+    this.state = {
+      menuOpen: false,
+    }
+    this.handleClick = this.handleClick.bind(this);
+    this.renderMenu = this.renderMenu.bind(this);
+  }
 
-  handleClick = () => {
+  handleClick() {
     this.setState(state => {
       const menuOpen = state.menuOpen === false;
 
@@ -16,7 +21,7 @@ class Header extends Component {
     });
   };
 
-  renderMenu = () => {
+  renderMenu() {
     return (
       <div className="Header__menu">
         <div className="Header__link-list" onClick={this.handleClick}>
