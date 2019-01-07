@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.com/vincentvella/gritty-blog.svg?branch=master)](https://travis-ci.com/vincentvella/gritty-blog)
+[![Build Status](https://travis-ci.org/vincentvella/gritty-blog.svg?branch=master)](https://travis-ci.org/vincentvella/gritty-blog)
 
 # gatsby-starter-blog
 Gatsby starter for creating a blog
